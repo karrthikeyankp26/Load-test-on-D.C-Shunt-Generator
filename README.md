@@ -1,27 +1,28 @@
 # Load-test-on-D.C-Shunt-Generator
 
-Aim:
+## Aim:
 To conduct load test on separately excited generators and to obtain the characteristics
-Apparatus Required:
-Sl .no apparatus range type quantity
-1 Volt meter (0-300)V MC 1
-2 Ammeter (0-2.5)A MC 1
-3 Ammeter (0-5)A MC 1
-4 Rheostat 800Ω/1.5A Wire wouned 1
-5 Rheostat 1000Ω/1.5 A Wire wouned 1
-6 Connecting wires - - As required
 
-Load test
+## Apparatus Required:
+<img width="1162" height="267" alt="image" src="https://github.com/user-attachments/assets/b51f0e58-7980-4feb-8944-d0b3ee985647" />
+
+
+## Circuit Diagram:
+<img width="655" height="306" alt="image" src="https://github.com/user-attachments/assets/d8f1b1f3-d164-43e0-8bde-f33b9412eae0" />
+
+### Fuse rating calculation for field and armature: 
+#### Load test
+10 % of rated current (full load current) 
+#### Load test
 125 % of rated current (full load current)
 
-<img width="655" height="306" alt="image" src="https://github.com/user-attachments/assets/d8f1b1f3-d164-43e0-8bde-f33b9412eae0" />
-Precautions
+## Precautions
 1. Motor side field rheostat should be kept at minimum resistance position.
 2. Generator side field rheostat should be kept at maximum resistance position.
 3. Starter should be in off position before switching on the supply.
 4. The DPST switch must be kept open.
    
-Procedure for Load test:
+## Procedure for Load test:
 
 1. Connections are given as per the circuit diagram
 2. The prime mover is started with the help of three point starter and it is made to run at rated
@@ -34,10 +35,13 @@ by closing the DPST switch 2.
 7. The motor is switched off by using DPST switch 1 after bringing all the rheostats to
 initial position
 
-Tabular Column:
-<img width="509" height="371" alt="image" src="https://github.com/user-attachments/assets/1641b4c7-3683-4920-b857-5ef394c51cff" />
+## Tabular Column:
+<img width="932" height="395" alt="dc shunt table" src="https://github.com/user-attachments/assets/0ba8f1ff-c50f-43ee-9a37-7ef1dc798757" />
 
-Model graph:
+
+
+## Model graph:
 <img width="399" height="182" alt="image" src="https://github.com/user-attachments/assets/05d45b14-c35d-4f16-a08a-58b263da9b84" />
 
-Result:
+## Result:
+Thus the Characteristics of DC Shunt Generators are analysed and load characteristics are verified. 
