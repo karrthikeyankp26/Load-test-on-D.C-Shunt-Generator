@@ -1,27 +1,27 @@
 # Load-test-on-D.C-Shunt-Generator
 
-Aim:
+## Aim:
 To conduct load test on separately excited generators and to obtain the characteristics
-Apparatus Required:
-Sl .no apparatus range type quantity
-1 Volt meter (0-300)V MC 1
-2 Ammeter (0-2.5)A MC 1
-3 Ammeter (0-5)A MC 1
-4 Rheostat 800Ω/1.5A Wire wouned 1
-5 Rheostat 1000Ω/1.5 A Wire wouned 1
-6 Connecting wires - - As required
+## Apparatus Required:
+<img width="1163" height="267" alt="Screenshot 2025-11-23 135412" src="https://github.com/user-attachments/assets/e525be50-ab4f-43ef-874d-43bdbf649dd1" />
 
-Load test
+
+## Fuse rating calculation for field and armature: 
+### No load test  
+10 % of rated current (full load current) 
+### Load test  
 125 % of rated current (full load current)
 
+## Circuit Diagram:
 <img width="655" height="306" alt="image" src="https://github.com/user-attachments/assets/d8f1b1f3-d164-43e0-8bde-f33b9412eae0" />
-Precautions
+
+## Precautions
 1. Motor side field rheostat should be kept at minimum resistance position.
 2. Generator side field rheostat should be kept at maximum resistance position.
 3. Starter should be in off position before switching on the supply.
 4. The DPST switch must be kept open.
    
-Procedure for Load test:
+## Procedure for Load test:
 
 1. Connections are given as per the circuit diagram
 2. The prime mover is started with the help of three point starter and it is made to run at rated
@@ -34,10 +34,13 @@ by closing the DPST switch 2.
 7. The motor is switched off by using DPST switch 1 after bringing all the rheostats to
 initial position
 
-Tabular Column:
-<img width="509" height="371" alt="image" src="https://github.com/user-attachments/assets/1641b4c7-3683-4920-b857-5ef394c51cff" />
+## Tabular Column:
+<img width="1065" height="590" alt="dc shunt table" src="https://github.com/user-attachments/assets/4386a018-5af1-4a0e-ae29-e19a7309b4f2" />
 
-Model graph:
+
+## Model graph:
 <img width="399" height="182" alt="image" src="https://github.com/user-attachments/assets/05d45b14-c35d-4f16-a08a-58b263da9b84" />
 
-Result:
+## Result:
+Thus the Characteristics of DC Shunt Generators are analysed and load characteristics are verified. 
+
