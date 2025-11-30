@@ -13,7 +13,7 @@ To conduct load test on separately excited generators and to obtain the characte
 125 % of rated current (full load current)
 
 ## Circuit Diagram:
-<img width="655" height="306" alt="image" src="https://github.com/user-attachments/assets/d8f1b1f3-d164-43e0-8bde-f33b9412eae0" />
+<img width="524" height="245" alt="image" src="https://github.com/user-attachments/assets/d8f1b1f3-d164-43e0-8bde-f33b9412eae0" />
 
 ## Precautions
 1. Motor side field rheostat should be kept at minimum resistance position.
@@ -35,8 +35,7 @@ by closing the DPST switch 2.
 initial position
 
 ## Tabular Column:
-<img width="1065" height="590" alt="dc shunt table" src="https://github.com/user-attachments/assets/4386a018-5af1-4a0e-ae29-e19a7309b4f2" />
-
+<img width="456" height="348" alt="dc shunt - table" src="https://github.com/user-attachments/assets/745f8f1c-1e11-4da9-b1b5-da8fdff83cb2" />
 
 ## Model graph:
 <img width="399" height="182" alt="image" src="https://github.com/user-attachments/assets/05d45b14-c35d-4f16-a08a-58b263da9b84" />
