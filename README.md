@@ -35,7 +35,7 @@ by closing the DPST switch 2.
 initial position
 
 ## Tabular Column:
-<img width="456" height="348" alt="dc shunt - table" src="https://github.com/user-attachments/assets/745f8f1c-1e11-4da9-b1b5-da8fdff83cb2" />
+<img width="475" height="369" alt="dc shunt table" src="https://github.com/user-attachments/assets/51d033b6-c644-450f-806c-755caeea8be8" />
 
 ## Model graph:
 <img width="399" height="182" alt="image" src="https://github.com/user-attachments/assets/05d45b14-c35d-4f16-a08a-58b263da9b84" />
