@@ -41,5 +41,7 @@ initial position
 <img width="399" height="182" alt="image" src="https://github.com/user-attachments/assets/05d45b14-c35d-4f16-a08a-58b263da9b84" />
 
 ## Result:
+<img width="1093" height="860" alt="dc shunt - virtual lab" src="https://github.com/user-attachments/assets/3fa578a8-5a14-44be-a176-cc17ca26a525" />
+
 Thus the Characteristics of DC Shunt Generators are analysed and load characteristics are verified. 
 
